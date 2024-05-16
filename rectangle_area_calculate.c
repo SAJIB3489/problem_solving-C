@@ -1,3 +1,7 @@
+// Calculate the Rectangle area using C program
+
+
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
