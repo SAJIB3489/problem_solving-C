@@ -1,6 +1,6 @@
 # Problem Solving in C
 
-![Demo](https://www.cdslab.org/recipes/images/C.png)
+![Demo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
 
 Welcome to the Problem Solving in C repository! This repository contains various C programs that I have written to enhance my problem-solving skills. Each program is a solution to a specific problem, with the problem statement mentioned in the comments at the beginning of each file.
 
