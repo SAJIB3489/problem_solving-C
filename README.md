@@ -1,6 +1,6 @@
 # Problem Solving in C
 
-![Demo](https://w7.pngwing.com/pngs/465/779/png-transparent-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-computer-thumbnail.png)
+![Demo](https://cdn.iconscout.com/icon/free/png-256/free-c-58-1175247.png)
 
 Welcome to the Problem Solving in C repository! This repository contains various C programs that I have written to enhance my problem-solving skills. Each program is a solution to a specific problem, with the problem statement mentioned in the comments at the beginning of each file.
 
